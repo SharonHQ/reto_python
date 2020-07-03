@@ -1,0 +1,26 @@
+body{
+	margin:15%;
+}
+#content{
+	background: #84a59d;
+	width: 100%;
+	font-family: open-sans, arial;
+	padding: 10px;
+	text-align: center;
+	border-radius: 30px;
+
+}
+h1{
+	font-size: 45px;
+	color:#f28482;
+	font-weight: bolder;
+}
+h2{
+	font-size: 28px;
+	color:#f7ede2;
+	font-weight: lighter;
+}
+h3{
+	font-size: 20px;
+	color:#f5cac3;
+}
